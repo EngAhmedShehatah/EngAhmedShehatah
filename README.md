@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Shehatah</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Senior Frontend Web Developer & MEAN Stack Developer🌟.</h3>
 
 <br>
 
@@ -44,76 +44,126 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-    alt="android" width="40" height="40" />
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5" width="50" height="50" />
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+  alt="css3" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap" width="40" height="40" />
+    alt="bootstrap" width="50" height="50" />
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" />
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+  alt="angularjs" width="50" height="50" />
 </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+  alt="typescript" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+  alt="sass" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"
+  alt="less" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"
+  alt="jquery" width="50" height="50" />
+</a>
+</p>
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="nodejs" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
+  alt="nginx" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"
+  alt="nestjs" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"
+  alt="mysql" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+  alt="mongodb" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
+  alt="express" width="50" height="50" />
+</a>
+</p>
+
+<p align="left">
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg"
+  alt="webpack" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+    alt="kubernetes" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg"
+  alt="karma" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+  alt="docker" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg"
+    alt="digitalocean" width="50" height="50" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"
+  alt="codepen" width="50" height="50" />
+</a>
+</p>
+
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
+  alt="ubuntu" width="40" height="40" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+  alt="linux" width="40" height="40" />
+</a>
+</p>
 
 <br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=EngAhmedShehatah&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center"
+           src="https://github-readme-stats.vercel.app/api?username=EngAhmedShehatah&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="ahmed-shehatah" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p>
+    <img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=EngAhmedShehatah&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+         alt="ahmed-shehatah" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Adam-pw](https://github.com/Adam-pw)
-
-<!---
-EngAhmedShehatah/EngAhmedShehatah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
