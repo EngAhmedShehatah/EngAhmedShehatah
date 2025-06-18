@@ -15,9 +15,7 @@
 
 - 🌱 I’m currently working as Senior Frontend Web Developer
 
-- 📫 How to reach me **engahmedshehatah@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 How to reach me **engahmedshehatah@gmail.com**.
 
 <br>
 
